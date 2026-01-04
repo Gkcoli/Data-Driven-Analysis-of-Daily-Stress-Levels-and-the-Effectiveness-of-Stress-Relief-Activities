@@ -1,0 +1,66 @@
+Date,Time of Day,Stress Score (Before),Stress Category,Activity Performed,Stress Score (After),Stress Improvement
+27-Dec-25,Morning,10,Relaxed ,Walking,18,-8
+27-Dec-25,Morning,9,Relaxed ,Stretching,17,-8
+27-Dec-25,Morning,22,Relaxed ,Walking,11,11
+27-Dec-25,Morning,10,Relaxed ,Running,20,-10
+27-Dec-25,Morning,11,Relaxed ,Stretching,19,-8
+27-Dec-25,Morning,18,Relaxed ,Reading,12,6
+27-Dec-25,Morning,19,Relaxed ,Meditate,8,11
+27-Dec-25,Morning,6,Relaxed ,Reading,15,-9
+27-Dec-25,Morning,11,Relaxed ,Reading,18,-7
+27-Dec-25,Afternoon,35,Mild,Gaming,45,-10
+27-Dec-25,Evening,35,Mild,Listening to Music ,28,7
+27-Dec-25,Evening,24,Relaxed ,Watching,36,-12
+27-Dec-25,Night,36,Mild,Watching,35,1
+28-Dec-25,Morning,11,Relaxed ,Meditate,23,-12
+28-Dec-25,Morning,18,Relaxed ,Meditate,16,2
+28-Dec-25,Morning,11,Relaxed ,Reading,23,-12
+28-Dec-25,Morning,16,Relaxed ,Reading,19,-3
+28-Dec-25,Morning,21,Relaxed ,Listening to Music ,13,8
+28-Dec-25,Morning,18,Relaxed ,Watching ,12,6
+28-Dec-25,Afternoon,15,Relaxed ,Watching,22,-7
+28-Dec-25,Afternoon,35,Mild,Gaming,36,-1
+28-Dec-25,Evening,35,Mild,Gaming,36,-1
+28-Dec-25,Evening,36,Mild,Gaming,33,3
+28-Dec-25,Night,29,Mild,Listening to Music ,24,5
+29-Dec-25,Morning,20,Relaxed ,Workout,15,5
+29-Dec-25,Morning,12,Relaxed ,Meditate,8,4
+29-Dec-25,Morning,13,Relaxed ,Reading,18,-5
+29-Dec-25,Morning,17,Relaxed ,Reading,11,6
+29-Dec-25,Morning,18,Relaxed ,Listening to Music ,15,3
+29-Dec-25,Afternoon,12,Relaxed ,Watching,18,-6
+29-Dec-25,Afternoon,19,Relaxed ,Watching,23,-4
+29-Dec-25,Afternoon,28,Mild,Gaming,36,-8
+29-Dec-25,Evening,37,Mild,Gaming,35,2
+29-Dec-25,Night,36,Mild,Gaming,33,3
+29-Dec-25,Night,37,Mild,Listening to Music ,29,8
+30-Dec-25,Morning,12,Relaxed ,Stretching,18,-6
+30-Dec-25,Morning,18,Relaxed ,Meditate,9,9
+30-Dec-25,Morning,14,Relaxed ,Meditate,9,5
+30-Dec-25,Afternoon,8,Relaxed ,Reading,18,-10
+30-Dec-25,Afternoon,22,Relaxed ,Workout,8,14
+30-Dec-25,Afternoon,11,Relaxed ,Reading,9,2
+30-Dec-25,Afternoon,25,Relaxed ,Listening to Music ,19,6
+31-Dec-25,Afternoon,29,Mild,Watching,30,-1
+31-Dec-25,Afternoon,35,Mild,Listening to Music ,32,3
+31-Dec-25,Evening,39,Mild,Listening to Music ,33,6
+31-Dec-25,Night,37,Mild,Watching,31,6
+31-Dec-25,Night,30,Mild,Watching,36,-6
+1-Jan-26,Night,36,Mild,Karaoke,29,7
+1-Jan-26,Night,30,Mild,Karaoke,28,2
+1-Jan-26,Morning,9,Relaxed ,Listening to Music ,17,-8
+1-Jan-26,Morning,18,Relaxed ,Listening to Music ,9,9
+1-Jan-26,Afternoon,12,Relaxed ,Watching,18,-6
+1-Jan-26,Night,26,Mild,Gaming,36,-10
+1-Jan-26,Night,36,Mild,Gaming ,32,4
+2-Jan-26,Morning,9,Relaxed ,Reading,11,-2
+2-Jan-26,Morning,19,Relaxed ,Listening to Music ,15,4
+2-Jan-26,Morning,17,Relaxed ,Reading,11,6
+2-Jan-26,Afternoon,9,Relaxed ,Walking,17,-8
+2-Jan-26,Afternoon,17,Relaxed ,Walking,11,6
+2-Jan-26,Afternoon,32,Mild,Gaming,36,-4
+2-Jan-26,Evening,37,Mild,Gaming,32,5
+2-Jan-26,Evening,31,Mild,Gaming,37,-6
+2-Jan-26,Evening,36,Mild,Watching,30,6
+2-Jan-26,Night,36,Mild,Listening to Music ,29,7
+2-Jan-26,Night,34,Mild,Reading,25,9
