@@ -1,0 +1,40 @@
+﻿Date,Start Time (Before),Stress Score (Before),Stress Category,Activity Performed,End Time (After),Stress Score (After),Stress Improvement
+10-Jan-26,6:00 AM,18,Relaxed ,Reading,6:30 AM,12,6
+10-Jan-26,8:00 AM,17,Relaxed ,Watching,8:30 AM,6,11
+10-Jan-26,9:00 AM,15,Relaxed ,Watching,9:30 AM,10,5
+10-Jan-26,1:30 PM,36,Mild,Walking,2:00 PM,27,9
+10-Jan-26,6:00 PM,36,Mild,Walking,7:00 PM,33,3
+10-Jan-26,9:00 PM,35,Mild,Workout,10:30 PM,26,9
+11-Jan-26,7:30 AM,18,Relaxed ,Walking,8:00 AM,7,11
+11-Jan-26,8:30 AM,15,Relaxed ,Walking,9:15 AM,10,5
+11-Jan-26,10:30 AM,7,Relaxed ,Reading,11:00 AM,13,-6
+11-Jan-26,12:30 PM,9,Relaxed ,Listening to Music,1:30 PM,5,4
+11-Jan-26,6:00 PM,36,Mild,Gaming,6:30 PM,26,10
+12-Jan-26,7:30 AM,20,Relaxed ,Reading ,8:25 AM,9,11
+12-Jan-26,9:00 AM,11,Relaxed ,Reading,9:30 AM,19,-8
+12-Jan-26,10:00 AM,22,Relaxed ,Listening to Music,10:45 AM,10,12
+12-Jan-26,2:30 PM,40,Mild,Listening to Music,3:00 PM,31,9
+12-Jan-26,9:30 PM,36,Mild,Watching,10:05 PM,27,9
+13-Jan-26,6:30 AM,15,Relaxed ,Reading,7:10 AM,9,6
+13-Jan-26,1:00 PM,34,Mild,Bowling,1:30 PM,26,8
+13-Jan-26,3:00 PM,36,Mild,Walking,4:00 PM,32,4
+13-Jan-26,7:00 PM,36,Mild,Listening to Music,8:00 PM,30,6
+13-Jan-26,9:00 PM,36,Mild  ,Walking,9:30 PM,33,3
+13-Jan-26,10:00 PM,38,Mild,Listening to Music,10:30 PM,34,4
+14-Jan-26,8:00 AM,17,Relaxed ,Meditate,8:30 AM,10,7
+14-Jan-26,9:30 AM,8,Relaxed ,Watching,9:30 AM,15,-7
+14-Jan-26,10:00 AM,22,Relaxed ,Listening to Music,10:30 AM,12,10
+14-Jan-26,11:30 AM,19,Relaxed ,Reading ,12:00 PM,13,6
+14-Jan-26,3:00 PM,35,Mild,Gaming,4:00 PM,26,9
+14-Jan-26,6:00 PM,43,Mild,Listening to Music,7:00 PM,32,11
+15-Jan-26,9:00 AM,10,Relaxed ,Walking,9:30 AM,22,-12
+15-Jan-26,10:00 AM,17,Relaxed ,Meditate,10:30 AM,12,5
+15-Jan-26,11:00 AM,26,Mild,Cleaning,11:30 AM,30,-4
+15-Jan-26,11:30 AM,38,Mild,Listening to Music,12:00 PM,30,8
+15-Jan-26,12:30 PM,33,Mild,Reading,1:00 PM,35,-2
+15-Jan-26,5:30 PM,41,Mild,Listening to Music,6:25 PM,25,16
+16-Jan-26,9:30 AM,8,Relaxed ,Walking ,10:00 AM,17,-9
+16-Jan-26,11:00 AM,30,Mild,Gaming,11:30 AM,37,-7
+16-Jan-26,11:30 AM,44,Mild,Listeninig to Music,12:00 PM,37,7
+16-Jan-26,4:00 PM,37,Mild,Walking,4:30 PM,28,9
+16-Jan-26,10:00 PM,36,Mild,Listening to Music,11:05 PM,29,7
