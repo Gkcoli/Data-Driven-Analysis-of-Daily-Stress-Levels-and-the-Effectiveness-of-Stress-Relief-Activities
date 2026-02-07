@@ -1,0 +1,47 @@
+﻿Date,Start Time (Before),Stress Score (Before),Stress Category,Activity Performed,End Time (After),Stress Score (After),Stress Improvement
+24-Jan-26,6:00 AM,8,Relaxed ,Walking,6:30 AM,18,-10
+24-Jan-26,6:32 AM,18,Relaxed ,Walking,7:05 AM,8,10
+24-Jan-26,8:30 AM,19,Relaxed ,Reading,8:30 AM,13,6
+24-Jan-26,10:30 AM,38,Mild,Listening to Music,11:00 AM,30,8
+24-Jan-26,11:05 AM,31,Mild,Listening to Music,11:30 AM,24,7
+24-Jan-26,8:30 PM,40,Mild,Listening to Music,9:10 PM,30,10
+24-Jan-26,10:30 AM,38,Mild,Listening to Music,11:20 PM,29,9
+25-Jan-26,8:00 AM,12,Relaxed ,Stretching,8:30 AM,18,-6
+25-Jan-26,8:35 AM,17,Relaxed ,Listening to Music,9:00 AM,10,7
+25-Jan-26,9:05 AM,10,Relaxed ,Listening to Music,9:30 AM,19,-9
+25-Jan-26,9:40 AM,18,Relaxed ,Listening to Music,10:00 AM,15,3
+25-Jan-26,8:30 PM,34,Mild,Walking,9:30 PM,25,9
+25-Jan-26,9:50 PM,25,Relaxed ,Listening to Music,10:15 PM,18,7
+26-Jan-26,9:30 AM,36,Mild,Walking,10:05 AM,27,9
+26-Jan-26,10:10 AM,26,Mild,Reading,10:50 AM,19,7
+26-Jan-26,1:00 PM,38,Mild,Listening to Music,1:30 PM,25,13
+26-Jan-26,3:00 PM,55,Moderate,Running,4:30 PM,29,26
+26-Jan-26,4:35 PM,29,Mild,Listening to Music,5:25 PM,23,6
+26-Jan-26,10:30 PM,51,Moderate,Listening to Music,11:15 PM,34,17
+27-Jan-26,7:00 AM,9,Relaxed ,Stretching,7:25 AM,17,-8
+27-Jan-26,7:30 AM,19,Relaxed ,Walking,8:00 AM,10,9
+27-Jan-26,9:30 AM,15,Relaxed ,Reading,9:30 AM,18,-3
+27-Jan-26,10:00 AM,18,Relaxed ,Reading,10:30 AM,12,6
+27-Jan-26,2:30 PM,46,Mild,Walking,3:00 PM,30,16
+27-Jan-26,3:05 PM,29,Mild,Listening to Music,4:00 PM,23,6
+27-Jan-26,9:30 PM,36,Mild,Watching,10:50 PM,24,12
+28-Jan-26,8:30 AM,32,Mild,Reading,9:10 AM,28,4
+28-Jan-26,9:15 AM,28,Mild,Reading,9:35 AM,24,4
+28-Jan-26,11:22 AM,32,Mild,Cleaning,11:30 AM,29,3
+28-Jan-26,11:32 AM,29,Mild,Listening to Music,11:50 AM,25,4
+28-Jan-26,2:30 PM,32,Mild,Watching,3:05 AM,29,3
+28-Jan-26,3:10 PM,30,Mild,Watching,3:25 PM,27,3
+28-Jan-26,6:30 PM,39,Mild,Walking,7:25 PM,30,9
+29-Jan-26,9:30 AM,42,Mild,Playing a Guitar,10:00 AM,37,5
+29-Jan-26,10:05 AM,37,Mild,Playing a Guitar,10:20 AM,32,5
+29-Jan-26,10:23 AM,32,Mild,Playing a Guitar,10:57 AM,27,5
+29-Jan-26,3:00 PM,35,Mild,Watching,4:00 AM,30,5
+29-Jan-26,4:05 PM,31,Mild,Watching,5:02 PM,25,6
+29-Jan-26,5:04 PM,25,Relaxed ,Reading,6:10 PM,19,6
+30-Jan-26,10:00 AM,55,Moderate,Listening to Music,10:25 AM,49,6
+30-Jan-26,10:26 AM,49,Mild,Listening to Music,10:55 AM,42,7
+30-Jan-26,11:02 AM,40,Mild,Listening to Music,11:30 AM,36,4
+30-Jan-26,11:34 AM,35,Mild,Listening to Music,11:56 AM,30,5
+30-Jan-26,12:05 PM,29,Mild,Listening to Music,12:30 PM,24,5
+30-Jan-26,8:30 PM,35,Mild,Watching,9:12 PM,31,4
+30-Jan-26,9:15 AM,31,Mild,Watching,9:38 AM,26,5
